@@ -34,6 +34,13 @@ Light, just don't leave the projects until the last minute (protip: this applies
 
 CS 7777 was the most engaging class I ever took. Professor Myers-Bracy-Sirer really knows their stuff.
 
+## Current Professor
+
+FirstName LastName
+netID@cornell.edu
+Since 20XX (if applicable)
+(Photo if they are ok with it)
+
 ## Past Offerings
 
 {:.past-offerings}
