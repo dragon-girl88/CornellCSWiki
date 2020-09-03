@@ -55,16 +55,16 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 2111]]
  - [[CS 2112]]
  - [[CS 2300]]
- - [[CS 2800]]
- - [[CS 2802]]—Discrete Structures - Honors
+ - [[CS 2800]] (CORE CLASS)
+ - [[CS 2802]]—Discrete Structures - Honors (CORE CLASS)
  - [[CS 2850]]
 
 ### 3000
- - [[CS 3110]]
+ - [[CS 3110]] (CORE CLASS)
  - [[CS 3152]]—Introduction to Computer Game Architecture
  - [[CS 3300]]
- - [[CS 3410]]
- - [[CS 3420]]
+ - [[CS 3410]] (CORE CLASS)
+ - [[CS 3420]] (CORE CLASS)
  - [[CS 3758]]
 
 ### 4000
@@ -80,7 +80,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 4302]]—Web Information Systems
  - [[CS 4320]]
  - [[CS 4321]]—Practicum in Database Systems
- - [[CS 4410]]
+ - [[CS 4410]] (CORE CLASS)
  - [[CS 4411]]
  - [[CS 4420]]
  - [[CS 4620]]
@@ -97,7 +97,7 @@ Want to add your thoughts? See a class that needs info? [[ Contributing Guide | 
  - [[CS 4786]]
  - [[CS 4810]]
  - [[CS 4812]]
- - [[CS 4820]]
+ - [[CS 4820]] (CORE CLASS)
  - [[CS 4830]]
  - [[CS 4850]]
  - [[CS 4852]]
